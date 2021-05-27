@@ -1,0 +1,11 @@
+node_modules
+.dockerignore
+Dockerfile
+README.md
+npm-debug.log
+yarn-debug.log
+.env.sample
+.env
+.git
+.hg
+.svn
